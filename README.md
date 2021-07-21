@@ -1,37 +1,16 @@
-## KS:GO
+# KS:GO
 
-You can use the [editor on GitHub](https://github.com/KirillSchcerbakov/KirillSchcerbakov.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Обучение
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[КЛЮЧЕВЫЕ ФЛЕШКИ НА ВСЕХ ТУРНИРНЫХ КАРТАХ](https://www.youtube.com/watch?v=hktkxn0Eu5I)
 
-### Markdown
+[Тут все флешки, что я показывал 12:43 - 22:21](https://youtu.be/hktkxn0Eu5I?t=763)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Лучший Конфиг для тренировки и раскидки в CS:GO](https://www.youtube.com/watch?v=qvJVlIciZfo)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Карты для тренировок
 
-- Bulleted
-- List
+[CSGOHUB.com Skills Training Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2185699891)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KirillSchcerbakov/KirillSchcerbakov.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Yprac Dust2 Guide](https://steamcommunity.com/sharedfiles/filedetails/?l=russian&id=1202643420%3D)
