@@ -14,3 +14,8 @@
 [CSGOHUB.com Skills Training Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2185699891)
 
 [Yprac Dust2 Guide](https://steamcommunity.com/sharedfiles/filedetails/?l=russian&id=1202643420%3D)
+
+
+### Запись тренировки
+
+[05.08.2021](https://www.youtube.com/watch?v=wXH6fcZ2VPE)
